@@ -208,6 +208,7 @@ build를 하기 위해서는 Dockerfile이 필요. 해당 파일의 지시사항
 8. `docker stop [컨테이너 ID 혹은 NAMES]` => [컨테이너 ID 혹은 NAMES] 컨테이너 종료
 9. `docker ps` => 컨테이너 없음
 10. `docker ps -a` => 컨테이너 존재
-11. `docker rm getting-started` => 컨테이너 삭제
-12. `docker images` => 이미지 존재
-13. `docker rmi getting-started` => 이미지 삭제
+11. `docker rm [컨테이너 ID 혹은 NAMES]` => 컨테이너 삭제
+12. `docker ps -a` => 컨테이너 없음
+13. `docker images` => 이미지 존재
+14. `docker rmi getting-started` => 이미지 삭제
