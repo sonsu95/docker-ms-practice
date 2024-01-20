@@ -1,6 +1,6 @@
-# 도입
+## 도입
 
-해당 문서는 <a href="https://learn.microsoft.com/ko-kr/visualstudio/docker/tutorials/docker-tutorial" traget="_blank">MS의 Docker 자습서</a>를 살펴본 내용으로 구성되었습니다. 
+해당 문서는 <a href="https://learn.microsoft.com/ko-kr/visualstudio/docker/tutorials/docker-tutorial" target="_blank">MS의 Docker 자습서</a>를 살펴본 내용으로 구성되었습니다. 
 
 실습은 VSCode가 권장됩니다. 
 
